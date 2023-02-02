@@ -4,41 +4,39 @@
     {
         private static void Main(string[] args)
         {
-            int testCasesAmount = ReadInt();
+            ushort testCasesAmount = ReadNumber();
 
-            List<int[]> purchases = new List<int[]>();
+            List<int> finalSums = new List<int>(testCasesAmount);
 
             for (int i = 0; i < testCasesAmount; i++)
             {
-                int itemsAmount = ReadInt();
+                int itemsAmount = ReadNumber();
 
-                int[] items = ReadPurchase(itemsAmount);
-                
-                purchases.Add(items);
+                finalSums.Add(FindFinalSum(ReadPurchase(itemsAmount)));
             }
 
-            foreach (int[] purchase in purchases)
+            foreach (int finalSum in finalSums)
             {
-                Console.WriteLine(FindFinalSum(purchase));
+                Console.WriteLine(finalSum);
             }
         }
 
-        private static int ReadInt()
+        private static ushort ReadNumber()
         {
             bool isNumber = false;
-            int number = 0;
+            ushort number = 0;
 
             while (isNumber == false)
             {
-                isNumber = int.TryParse(Console.ReadLine(), out number);
+                isNumber = ushort.TryParse(Console.ReadLine(), out number);
             }
 
             return number;
         }
 
-        private static int[] ReadPurchase(int itemsAmount)
+        private static ushort[] ReadPurchase(int itemsAmount)
         {
-            List<int> purchase = new List<int>(itemsAmount);
+            List<ushort> purchase = new List<ushort>(itemsAmount);
 
             bool isPurchaseRight = false;
 
@@ -46,9 +44,14 @@
             {
                 string[] userPurchase = Console.ReadLine().Split(' ');
 
+                if (userPurchase.Length != itemsAmount)
+                {
+                    continue;
+                }
+
                 foreach (string eachItem in userPurchase)
                 {
-                    bool isNumber = int.TryParse(eachItem, out int item);
+                    bool isNumber = ushort.TryParse(eachItem, out ushort item);
 
                     if (isNumber == false)
                     {
@@ -68,12 +71,12 @@
             return purchase.ToArray();
         }
 
-        private static int FindFinalSum(int[] items)
+        private static int FindFinalSum(ushort[] items)
         {
-            Dictionary<int, int> itemsAmount = new Dictionary<int, int>();
+            Dictionary<ushort, int> itemsAmount = new Dictionary<ushort, int>();
             int finalSum = 0;
 
-            foreach (int item in items)
+            foreach (ushort item in items)
             {
                 if (itemsAmount.ContainsKey(item))
                 {
@@ -85,11 +88,11 @@
                 }
             }
 
-            foreach (KeyValuePair<int,int> keyValuePair in itemsAmount)
+            foreach (KeyValuePair<ushort,int> keyValuePair in itemsAmount)
             {
                 const int freeProductNumber = 3;
                 
-                int price = keyValuePair.Key;
+                ushort price = keyValuePair.Key;
                 int itemsCount = keyValuePair.Value;
                 int freeItemsAmount = itemsCount / freeProductNumber;
                 
