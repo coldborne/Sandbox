@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "92v4MMz1sme/KvtWcS5joZyNyMGtsbcOuGFIHSDuUhgUpbnkK6hvBifHOC1sOUaK/exj1K413G6I1ASJjA7Tkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Coldborne\\RiderProjects\\Sandbox\\B.SumForPay\\B.SumForPay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coldborne\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Coldborne\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Coldborne\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Coldborne\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

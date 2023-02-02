@@ -1,0 +1,15 @@
+C:\Users\Coldborne\RiderProjects\Sandbox\B.SumForPay\bin\Debug\net6.0\B.SumForPay.exe
+C:\Users\Coldborne\RiderProjects\Sandbox\B.SumForPay\bin\Debug\net6.0\B.SumForPay.deps.json
+C:\Users\Coldborne\RiderProjects\Sandbox\B.SumForPay\bin\Debug\net6.0\B.SumForPay.runtimeconfig.json
+C:\Users\Coldborne\RiderProjects\Sandbox\B.SumForPay\bin\Debug\net6.0\B.SumForPay.dll
+C:\Users\Coldborne\RiderProjects\Sandbox\B.SumForPay\bin\Debug\net6.0\B.SumForPay.pdb
+C:\Users\Coldborne\RiderProjects\Sandbox\B.SumForPay\obj\Debug\net6.0\B.SumForPay.csproj.AssemblyReference.cache
+C:\Users\Coldborne\RiderProjects\Sandbox\B.SumForPay\obj\Debug\net6.0\B.SumForPay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coldborne\RiderProjects\Sandbox\B.SumForPay\obj\Debug\net6.0\B.SumForPay.AssemblyInfoInputs.cache
+C:\Users\Coldborne\RiderProjects\Sandbox\B.SumForPay\obj\Debug\net6.0\B.SumForPay.AssemblyInfo.cs
+C:\Users\Coldborne\RiderProjects\Sandbox\B.SumForPay\obj\Debug\net6.0\B.SumForPay.csproj.CoreCompileInputs.cache
+C:\Users\Coldborne\RiderProjects\Sandbox\B.SumForPay\obj\Debug\net6.0\B.SumForPay.dll
+C:\Users\Coldborne\RiderProjects\Sandbox\B.SumForPay\obj\Debug\net6.0\refint\B.SumForPay.dll
+C:\Users\Coldborne\RiderProjects\Sandbox\B.SumForPay\obj\Debug\net6.0\B.SumForPay.pdb
+C:\Users\Coldborne\RiderProjects\Sandbox\B.SumForPay\obj\Debug\net6.0\B.SumForPay.genruntimeconfig.cache
+C:\Users\Coldborne\RiderProjects\Sandbox\B.SumForPay\obj\Debug\net6.0\ref\B.SumForPay.dll

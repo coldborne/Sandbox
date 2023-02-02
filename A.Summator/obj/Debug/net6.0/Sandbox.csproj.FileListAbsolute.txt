@@ -1,0 +1,15 @@
+C:\Users\Coldborne\RiderProjects\Sandbox\Sandbox\bin\Debug\net6.0\Sandbox.exe
+C:\Users\Coldborne\RiderProjects\Sandbox\Sandbox\bin\Debug\net6.0\Sandbox.deps.json
+C:\Users\Coldborne\RiderProjects\Sandbox\Sandbox\bin\Debug\net6.0\Sandbox.runtimeconfig.json
+C:\Users\Coldborne\RiderProjects\Sandbox\Sandbox\bin\Debug\net6.0\Sandbox.dll
+C:\Users\Coldborne\RiderProjects\Sandbox\Sandbox\bin\Debug\net6.0\Sandbox.pdb
+C:\Users\Coldborne\RiderProjects\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.csproj.AssemblyReference.cache
+C:\Users\Coldborne\RiderProjects\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coldborne\RiderProjects\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.AssemblyInfoInputs.cache
+C:\Users\Coldborne\RiderProjects\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.AssemblyInfo.cs
+C:\Users\Coldborne\RiderProjects\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\Coldborne\RiderProjects\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.dll
+C:\Users\Coldborne\RiderProjects\Sandbox\Sandbox\obj\Debug\net6.0\refint\Sandbox.dll
+C:\Users\Coldborne\RiderProjects\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.pdb
+C:\Users\Coldborne\RiderProjects\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.genruntimeconfig.cache
+C:\Users\Coldborne\RiderProjects\Sandbox\Sandbox\obj\Debug\net6.0\ref\Sandbox.dll
