@@ -17,9 +17,10 @@
                 purchases.Add(items);
             }
 
-            int finalSum = purchases.Sum(FindFinalSum);
-
-            Console.WriteLine(finalSum);
+            foreach (int[] purchase in purchases)
+            {
+                Console.WriteLine(FindFinalSum(purchase));
+            }
         }
 
         private static int ReadInt()
